@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kentures.de	TRUE	/	FALSE	1999999999	travels	a%3A10%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%223fc04316c1c20531370866add1d7196f%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22197.210.76.65%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A50%3A%22Mozilla%2F4.5+%28compatible%3B+HTTrack+3.0x%3B+Windows+98%29%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1675765691%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3Bs%3A14%3A%22domain_auth_id%22%3Bi%3A1%3Bs%3A10%3A%22domain_key%22%3Bs%3A28%3A%22VE1YNTQyMzkzMTU5MDY2NjU0OQ%3D%3D%22%3Bs%3A15%3A%22domain_currency%22%3Bs%3A3%3A%22USD%22%3Bs%3A8%3A%22currency%22%3Bs%3A3%3A%22USD%22%3Bs%3A8%3A%22continue%22%3Bs%3A45%3A%22http%3A%2F%2Fkentures.de%2Findex.phptours%2Fdetails%2F210%22%3B%7D066d21932c61880fb657c33434e2b18b
+
